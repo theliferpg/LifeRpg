@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/map">
+        <file>Image/Map/test.png</file>
+    </qresource>
+    <qresource prefix="/role">
+        <file>Image/Role/1.png</file>
+        <file>Image/Role/2.png</file>
+        <file>Image/Role/3.png</file>
+        <file>Image/Role/4.png</file>
+    </qresource>
+</RCC>
